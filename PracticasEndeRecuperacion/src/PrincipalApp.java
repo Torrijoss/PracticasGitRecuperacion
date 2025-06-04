@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 public class PrincipalApp {
 static Scanner scan = new Scanner (System.in);
 	
